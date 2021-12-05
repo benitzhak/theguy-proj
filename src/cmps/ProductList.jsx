@@ -33,9 +33,9 @@ export const ProductList = () => {
                 <h3>מוצרים נוספים שיכולים לעניין אתכם</h3>
                 <div className="products-container flex space-between">
                     {
-                        products.map(product=> (
+                        products.map( product=> (
                             <ProductPreview key={product.logo} product={product}/>
-                            ))
+                        ))
                     }
                 </div>
             </div>

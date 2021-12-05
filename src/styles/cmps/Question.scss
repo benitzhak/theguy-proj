@@ -23,9 +23,13 @@
             left: 0;
             color: #26cc00;
             font-size: 40px;
+            transition: .2s;
             @media screen and (max-width:800px) {
                 right: 0;
             }
+        }
+        .open{
+            transform: rotateZ(180deg);
         }
     }
     .text{
