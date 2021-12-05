@@ -14,12 +14,14 @@
         }
     }
     .why-us-container{
+        justify-content: space-between;
         @media screen and (max-width:800px) {
             flex-direction: column-reverse;
         }
     }
     .right-container{
         padding: 0 15px;
+        width: 70%;
         p{
             padding: 25px 0 50px;
             font-size: 18px;
