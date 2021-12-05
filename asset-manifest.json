@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/theguy-proj/static/css/main.235f5bd8.chunk.css",
+    "main.css": "/theguy-proj/static/css/main.e11c757f.chunk.css",
     "main.js": "/theguy-proj/static/js/main.79ffed17.chunk.js",
     "main.js.map": "/theguy-proj/static/js/main.79ffed17.chunk.js.map",
     "runtime-main.js": "/theguy-proj/static/js/runtime-main.65781e5d.js",
@@ -10,7 +10,7 @@
     "static/js/3.57028d03.chunk.js": "/theguy-proj/static/js/3.57028d03.chunk.js",
     "static/js/3.57028d03.chunk.js.map": "/theguy-proj/static/js/3.57028d03.chunk.js.map",
     "index.html": "/theguy-proj/index.html",
-    "static/css/main.235f5bd8.chunk.css.map": "/theguy-proj/static/css/main.235f5bd8.chunk.css.map",
+    "static/css/main.e11c757f.chunk.css.map": "/theguy-proj/static/css/main.e11c757f.chunk.css.map",
     "static/js/2.50a2ba6c.chunk.js.LICENSE.txt": "/theguy-proj/static/js/2.50a2ba6c.chunk.js.LICENSE.txt",
     "static/media/product-icon-1.e6a5aa6f.png": "/theguy-proj/static/media/product-icon-1.e6a5aa6f.png",
     "static/media/main.scss": "/theguy-proj/static/media/south-regular-webfont.61728658.woff"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.65781e5d.js",
     "static/js/2.50a2ba6c.chunk.js",
-    "static/css/main.235f5bd8.chunk.css",
+    "static/css/main.e11c757f.chunk.css",
     "static/js/main.79ffed17.chunk.js"
   ]
 }
