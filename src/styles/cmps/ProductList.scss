@@ -1,0 +1,15 @@
+.product-list{
+    text-align: center;
+    padding: 70px 0;
+    @media screen and (max-width:800px) {
+        padding: 50px 0;
+    }
+    h3{
+        font-family: SouthWest-regular;
+        font-weight: 300;
+    }
+    .products-container{
+        margin-top: 40px;
+        flex-wrap: wrap;
+    }
+}

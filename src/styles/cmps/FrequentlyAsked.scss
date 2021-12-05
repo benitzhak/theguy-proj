@@ -1,0 +1,32 @@
+.fqa{
+    padding-top: 73px;
+    @media screen and (max-width:800px) {
+        padding: unset;
+        background-color: #ececec;
+        padding: 0 5%;
+    }
+    h3{
+        text-align: center;
+        padding: 20px 0;
+        border-top: solid 2px #26cc00;
+        border-bottom: solid 2px #26cc00;
+        font-size: 27px;
+        @media screen and (max-width:800px) {
+            border-top: unset;
+            border-bottom: unset;
+            padding: 40px 0 20px;
+        }
+    }
+    .questions-container{
+        padding: 0 40px;
+        @media screen and (max-width:800px) {
+            display: unset;
+        }
+        ul{
+            width: 47%;
+            @media screen and (max-width:800px) {
+                width: 100%;
+            }
+        }
+    }
+}

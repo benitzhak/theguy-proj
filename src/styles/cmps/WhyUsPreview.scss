@@ -1,0 +1,28 @@
+.why-us-preview{
+    align-items: center;
+    max-width: 25%;
+    text-align: center;
+    @media screen and (max-width:800px) {
+        max-width: unset;
+        flex-direction: row;
+        margin-bottom: 20px;
+    }
+    span{
+        width: 100px;
+        height: 5px;
+        background-color: #26cc00;
+        margin: 20px 0;
+        @media screen and (max-width:800px) {
+            width: 5px;
+            height: 90px;
+            margin: 0 20px;
+            border-radius: 10px;
+        }
+    }
+    h4{
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 1.2;
+        color: #282828;
+    }
+}

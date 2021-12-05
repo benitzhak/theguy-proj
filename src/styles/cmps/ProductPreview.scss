@@ -1,0 +1,39 @@
+.product-preview{
+    padding: 30px 0;
+    background-color: white;
+    border-radius: 10px;
+    max-width: 31%;
+    box-shadow: 0 0 10px #0000001a;
+    @media screen and (max-width:800px) {
+        max-width: 200px;
+    }
+    .logo{
+        height: 40px;
+    }
+    .img{
+        max-height: 160px;
+        display: flex;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    p{
+        max-width: 285px;
+        margin: 20px 2%;
+        line-height: 1.2;
+        font-size: 15px;
+    }
+    button{
+        background-color: #3c3c3c;
+        border: none;
+        color: white;
+        font-size: 20px;
+        line-height: 34px;
+        padding-top: 4px 0;
+        border-radius: 20px;
+        width: 191px;
+        cursor: pointer;
+    }
+    button:hover{
+        background-color: #26cc00;
+    }
+}

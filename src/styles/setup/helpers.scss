@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+}
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.column{
+    flex-direction: column;
+}
+.wrapper{
+    max-width: 100%;
+    padding: 0 5%;
+}

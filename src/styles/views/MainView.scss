@@ -1,0 +1,19 @@
+.go-back{
+    display: flex;
+    justify-content: end;
+    font-size: 20px;
+    font-weight: 100;
+    color: #282828;
+    padding: 0px 20px 14px;
+    @media screen and (max-width:800px) {
+        display: none;
+    }
+    span{
+        cursor: pointer;
+        height: 25px;
+    }
+    .arrow-icon{
+        cursor: pointer;
+        font-size: 28px;
+    }
+}

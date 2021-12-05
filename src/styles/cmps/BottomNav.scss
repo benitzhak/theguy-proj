@@ -1,0 +1,21 @@
+.bottom-nav{
+    background-color: #232323;
+    position: sticky;
+    bottom: 0;
+    height: 80px;
+    button{
+        font-family: SouthWest-regular;
+        font-weight: 600;
+        display: flex;
+        width: 300px;
+        border-radius: 28px;
+        background-color: #2FCF0C;
+        color: #fff;
+        font-size: 20px;
+        font-weight: 400;
+        text-decoration: none;
+        padding: 15px 30px;
+        border: none;
+        cursor: pointer;
+    }
+}

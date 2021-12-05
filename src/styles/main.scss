@@ -1,0 +1,20 @@
+// setup
+@import './setup/basic.scss';
+@import './setup/helpers.scss';
+@import './setup/layout.scss';
+@import './setup/fonts.scss';
+
+// views
+@import './views/MainView.scss';
+
+// cmps
+@import './cmps/Header.scss';
+@import './cmps/WhyUsPreview.scss';
+@import './cmps/WhyUs.scss';
+@import './cmps/JoinUs.scss';
+@import './cmps/FrequentlyAsked.scss';
+@import './cmps/Question.scss';
+@import './cmps/ProductList.scss';
+@import './cmps/ProductPreview.scss';
+@import './cmps/Footer.scss';
+@import './cmps/BottomNav.scss';

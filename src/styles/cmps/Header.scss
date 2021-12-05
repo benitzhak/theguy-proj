@@ -1,0 +1,23 @@
+.header{
+    height: 72px;
+    position: sticky;
+    top: 0;
+    @media screen and (max-width:800px) {
+        background-color: white ;
+    }
+        .menu-icon{
+            margin-right: 20px;
+            padding: 0 15px;
+            color: #212529;
+            font-size: 30px;
+            font-weight: 900;
+            height: 33px;
+        }
+        .logo{
+            padding: 0 15px;
+            height: 20px;
+        }
+}
+.white{
+    background-color: white;
+}
